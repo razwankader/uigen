@@ -1,0 +1,2 @@
+[     831ms] [WARNING] document.domain mutation is ignored because the surrounding agent cluster is origin-keyed. @ https://www.kickstarter.com/:467
+[    3331ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://zncv1onfo8kuflf0n-kickstarter.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_ZID=ZN_cV1oNFo8KUFlf0N&t=1772650734740:0
